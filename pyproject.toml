@@ -7,7 +7,7 @@ description = "A local-first RAG engine that answers questions about any reposit
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Sumanth D" }]
+authors = [{ name = "Shreesha001" }]
 keywords = ["rag", "code-search", "tree-sitter", "embeddings", "documentation-drift"]
 classifiers = [
     "Development Status :: 3 - Alpha",
